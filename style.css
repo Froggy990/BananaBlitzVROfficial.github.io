@@ -1,0 +1,26 @@
+h1{
+    color: yellow;
+}
+
+h1{
+    font-family: BBV-FONT;
+}
+
+@font-face {
+    font-family: BBV-FONT;
+    src: url(PixelatedPusab.ttf);
+}
+
+body{
+    background-image: url(backround.png);
+}
+
+h1{
+    font-size: 115px;
+}
+p1{
+    font-family: BBV-FONT;
+    font-size: 50px;
+    color: coral;
+
+}
